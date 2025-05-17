@@ -1,6 +1,6 @@
 <h2 align="center">Oi, eu sou a Bia/Koda 👋</h2>
 
-<p align="center">
+<p align="center" style="text-decoration:none;">
   <a href="https://learn.microsoft.com/dotnet/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   </a>
