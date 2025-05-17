@@ -25,7 +25,7 @@
 - ✉️ bianca.shabests@hotmail.com
 
 ---
-<p align="center"> Contador: <img src="https://komarev.com/ghpvc/?username=deadkoda&style=flat-square&color=blue" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=deadkoda&style=flat-square&color=blue" /></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadkoda&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadkoda&layout=compact&theme=dracula" />
