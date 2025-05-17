@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   </a>
   <a href="https://learn.microsoft.com/ef/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Entity_Framework-339933?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
+    <img src="https://img.shields.io/badge/EntityFramework-339933?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
   </a>
   <a href="https://learn.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINQ-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" alt="LINQ" />
   </a>
   <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   </a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -41,19 +41,18 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   </a>
   <a href="https://www.rabbitmq.com/documentation.html" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   </a>
   <a href="https://learn.microsoft.com/azure/service-bus-messaging/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Azure_Service_Bus-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Service Bus" />
+    <img src="https://img.shields.io/badge/AzureServiceBus-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Service Bus" />
   </a>
   <a href="https://learn.microsoft.com/azure/devops/?view=azure-devops" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   </a>
 </p>
-
 ### 💻 Sobre mim
 - Meu nome é Bianca, tenho 30 anos, moro em São Paulo, SP. Tenho quase 3 anos de experiência em desenvolvimento Back-End utilizando C# .NET.
 - Estudante intusiasta de HTML/CSS e VueJS.
