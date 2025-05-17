@@ -66,7 +66,7 @@
 
 ### 📌 Projetos iniciados
 - [Bar do DG - Sistema de Comanda](https://github.com/deadkoda/BarDoDG) : Projeto desenvolvido para estudos sobre lógica
-- [Estudos LINQ](https://github.com/deadkoda/EstudosLinq) : aprofundados estudos sobre manipulação usando LINQ
+- [Estudos LINQ](https://github.com/deadkoda/EstudosLinq) : aprofundando estudos sobre manipulação usando LINQ
 - [AplicacaoProjeto](https://github.com/deadkoda/AplicacaoProjeto/tree/categoria) : Projeto focado em estudos de **.NET 8**, estruturado com separação de camadas, uso de **SQLite** e LINQ para consultas eficientes.
 
 
