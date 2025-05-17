@@ -8,7 +8,6 @@
 
 ### 💻 Sobre mim
 - 🔍 Aprofundando estudos sobre Clean Code, Clean Architecture, APIs REST com .NET 8 e SQL
-- 🌎 Local atual: <a href="https://time.is/Brazil">🕒 <img src="https://img.shields.io/badge/Hora%20local-Dinâmica-lightgrey?style=flat-square" /></a>
 
 ### 🛠️ Tecnologias
 - Backend: `.NET`, `C#`, `Entity Framework`, `LINQ`
@@ -26,9 +25,8 @@
 - ✉️ bianca.shabests@hotmail.com
 
 ---
-
+<p align="center"> Contador: <img src="https://komarev.com/ghpvc/?username=deadkoda&style=flat-square&color=blue" /></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deadkoda&style=flat-square&color=blue" />
   <img src="https://github-readme-stats.vercel.app/api?username=deadkoda&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadkoda&layout=compact&theme=dracula" />
 </p>
